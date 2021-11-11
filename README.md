@@ -2,6 +2,8 @@
 
 Markdown Editor Bundler Script for Create Markdown Post - <https://github.com/mskian/create-markdown-post> - Build Using - Svelte.  
 
+- Demo - <https://mskian.github.io/svelte-markdown-editor/>  
+
 - inspired from - <https://github.com/borntofrappe/svelte-tutorial/tree/master/Markdown%20Editor>  
 
 > it is a Javascript Embed Markdown Editor Bundler Script  
