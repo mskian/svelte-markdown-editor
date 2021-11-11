@@ -25,12 +25,8 @@
   },
   "homepage": "https://github.com/mskian/svelte-markdown-editor#readme",
   "devDependencies": {
-    "@babel/cli": "^7.16.0",
-    "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.0",
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.0.6",
-    "babel-preset-minify": "^0.5.1",
     "marked": "^4.0.1",
     "rollup": "^2.59.0",
     "rollup-plugin-css-only": "^3.1.0",
